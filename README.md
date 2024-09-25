@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pierre Westphal</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierre-westphal" alt="pierre-westphal" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pierre-westphal-960511205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pierre-westphal-960511205/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center" style="margin-left: 1rem;"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" styles="margin"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -61,9 +59,3 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   </a> 
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierre-westphal&show_icons=true&locale=en&layout=compact" alt="pierre-westphal" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierre-westphal&show_icons=true&locale=en" alt="pierre-westphal" /></p>
